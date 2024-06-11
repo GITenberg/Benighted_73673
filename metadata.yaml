@@ -1,0 +1,42 @@
+_repo: Benighted_73673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Priestley, J. B. (John Boynton)
+    aliases:
+    - Goldsmith, Peter
+    - Priestley, John Boynton
+    birthdate: 1894
+    deathdate: 1984
+    gutenberg_agent_id: '45526'
+    url: http://www.gutenberg.org/2009/agents/45526
+    wikipedia: https://en.wikipedia.org/wiki/J._B._Priestley
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Benighted_(novel)
+
+  Published in the United States with the title: The old dark house.'
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73673'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015002710773
+pgterms:marc905: 20240510050211priestley
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bWilliam Heinemann Ltd., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Family secrets -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Wales -- Fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Thrillers (Fiction)'
+- !lcsh 'Mansions -- Fiction'
+- !lcsh 'Pyromania -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Benighted
+url: http://www.gutenberg.org/ebooks/73673
