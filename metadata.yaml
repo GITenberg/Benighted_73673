@@ -1,5 +1,8 @@
 _repo: Benighted_73673
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73673-h/images/cover.png
 creator:
   author:
     agent_name: Priestley, J. B. (John Boynton)
@@ -14,6 +17,8 @@ creator:
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Benighted_(novel)
 
   Published in the United States with the title: The old dark house.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73673#Benighted
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
